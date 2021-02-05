@@ -12,7 +12,7 @@
       
       <section class="mt-5">
         <h2> Colorful Runner </h2>
-        <a href="/ColorfulRunner">
+        <a href="/ColorfulRunner/">
           <img class="product__keyvisual" src="../assets/ColorfulRunner/feature.png">
         </a>
       </section>

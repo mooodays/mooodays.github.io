@@ -3,7 +3,7 @@ import { createApp, h } from 'vue'
 require('@/assets/sass/main.scss')
 
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 // Pages
